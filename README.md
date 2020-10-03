@@ -1,4 +1,4 @@
-# unlocked
+# Unlocked
 This is a landing page for my app Unlocked.
 
 
